@@ -8,7 +8,7 @@ Olvidaste tu celular, no hay problema puedes ingresar un codigo en el teclado pa
 O que tal si mejor te gusta usar una tarjeta de acceso.
 # Mision 🏳
 Brindar seguridad a nuestros clientes para ingresar a su hogar u oficina de trabajo. 🏠
-# Tenemos una vision diferente
+# Tenemos una vision diferente 🚩
 Como te gustaria ingresar a tu casa u oficina. 🕋
 Codigo en teclado, mediante tu celular (Bluetooth) o con una tarjeta de acceso. ⚙
 # Integrantes
