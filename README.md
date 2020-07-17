@@ -11,7 +11,15 @@ Brindar seguridad a nuestros clientes para ingresar a su hogar u oficina de trab
 # Tenemos una vision diferente 🚩
 Como te gustaria ingresar a tu casa u oficina. 🕋
 Codigo en teclado, mediante tu celular (Bluetooth) o con una tarjeta de acceso. ⚙
-# Integrantes
+# Software 🌎
+  * Arduino IDE
+# Materiales 🕹
+  * Arduino UNO
+  * Cable
+  * Resistencia
+  * Pasadorde puerta(Chapa)
+  * Servomotor
+  * Diseño de puerta
+# Integrantes 🗿
   * Brian Escamilla Torres   IET 9no.
   * Enrique Diego Castro   IET 9no.
-
