@@ -11,6 +11,8 @@ Brindar seguridad a nuestros clientes para ingresar a su hogar u oficina de trab
 # Tenemos una vision diferente 🚩
 Como te gustaria ingresar a tu casa u oficina. 🕋
 Codigo en teclado, mediante tu celular (Bluetooth) o con una tarjeta de acceso. ⚙
+# ¿Por qué lo elegimos?
+*****
 # Software 🌎
   * Arduino IDE
 # Materiales 🕹
