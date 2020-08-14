@@ -25,12 +25,3 @@ Codigo en teclado, mediante tu celular (Bluetooth) o con una tarjeta de acceso. 
 # Integrantes 🗿
   * Brian Escamilla Torres   IET 9no.
   * Enrique Diego Castro   IET 9no.
-
-Diagrama
-El siguiente esquemático muestra como se debe conectar todos los componentes con la placa. 
-
-Toma en cuenta estas consideraciones:
-
-Conecta los servomotores a una fuente externa de voltaje (de 5 volts y 1 Amper como mínimo)
-Puentear GND de la fuente externa con GND del Arduino
-Si vas a utilizar otro tipo de servomotores, considera la carga que pueden soportar
