@@ -32,6 +32,7 @@ Codigo en teclado, mediante tu celular (Bluetooth) o con una tarjeta de acceso. 
   * Pasadorde puerta(Chapa)
   * Servomotor
   * Diseño de puerta
+  * Contar con las librerías Ultrasonic y Servo
   
 # Integrantes 🗿
   * Brian Escamilla Torres   IET 9no.
