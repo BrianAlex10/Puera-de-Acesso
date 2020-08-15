@@ -17,7 +17,9 @@ Codigo en teclado, mediante tu celular (Bluetooth) o con una tarjeta de acceso. 
 
 # ¿Por qué lo elegimos?
 *El punto es automatizar el movimiento diario de las personas y la seguridad de uno mismo con la creación de este tipo de puertas podemos subir un estándar de velocidad, movilidad y vida de las personas un 12%.
+
 *Ya que permite seguridad anti robos y escapes si se logra la entrada prporciona una mayorseguridad para el  cliente con los mejores estándares del mercado y los más bajos costos al igual una amplia gama de equipos diversos para tus bolsillos dándote seguridad a ti y tu familia.
+
 *La programación del producto es sencilla para poder hacer que nuestro cliente sepa cuál es la manera más sencilla de poder hacer que toda su familia pueda pasar.
 
 # Software 🌎
