@@ -1,0 +1,6 @@
+El uso para esta aplicación es por que es versátil fácil segura y tiene estilo para la programación.
+La razón de usarlo es por que es mas sencillo de programar es menos costoso al igual mas 
+sencillo de actualizar pero consta con puertos de seguridad cerrados que no permiten el paso de 
+otro tipo de código si los cerramos dándonos solo la seguridad de entrada con el que esta dado o con 
+las tarjetas programadas.
+ 
